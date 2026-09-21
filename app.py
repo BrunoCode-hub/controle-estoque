@@ -1,4 +1,4 @@
-from Flask import Flask, render_template, request, redirect
+from flask import Flask, render_template, request, redirect
 from database import conectar
 
 app = Flask(__name__,
