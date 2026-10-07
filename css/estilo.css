@@ -1,11 +1,11 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
-    background-color: #646161;
+    background-color: #55afb3;
 }
 header{
     background-color: #2c3e50;
-    color: white;
+    color: rgb(255, 255, 255);
     padding: 15px;
 }
 header h1{
@@ -19,17 +19,17 @@ nav a{
 main{
     padding: 20px;
 }
-table{
+table{  
     width: 100%;
-    background-color: white;
+    background-color: rgba(105, 201, 201, 0.534);
     border-collapse: collapse;
 }
 table th, table td{
     padding: 10px;
-    border: 1px solid #c42828;
+    border: 1px solid #081ee6;
 }
 form{
-    background-color: #646161;f
+    background-color: #82cfd4;
     padding: 20px;
     max-width: 400px;
 }
@@ -40,7 +40,7 @@ input, button{
 }
 button{
     background-color: green;
-    color: white;
+    color: rgb(243, 237, 237);
     border: none;
     cursor: pointer;
 }
